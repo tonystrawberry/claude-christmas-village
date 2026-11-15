@@ -1,0 +1,11 @@
+{
+  "name": "christmas-village",
+  "version": "1.0.0",
+  "description": "An animated Alsatian Christmas village behind your Claude Code chat: half-timbered houses, a Christmas market, people strolling with dogs, cats and falling snow.",
+  "author": { "name": "Tony Duong", "url": "https://github.com/tonystrawberry" },
+  "homepage": "https://github.com/tonystrawberry/claude-christmas-village",
+  "repository": "https://github.com/tonystrawberry/claude-christmas-village",
+  "license": "MIT",
+  "keywords": ["theme", "backdrop", "christmas", "alsace", "animated", "desktop"],
+  "icon": "./.claude-plugin/icon.png"
+}

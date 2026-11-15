@@ -1,0 +1,15 @@
+{
+  "name": "claude-christmas-village",
+  "description": "An animated Alsatian Christmas village backdrop for Claude Code (an experiment with the theme skill).",
+  "owner": {
+    "name": "Tony Duong",
+    "url": "https://github.com/tonystrawberry"
+  },
+  "plugins": [
+    {
+      "name": "christmas-village",
+      "source": "./",
+      "description": "An animated Alsatian Christmas village behind your Claude Code chat."
+    }
+  ]
+}
